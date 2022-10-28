@@ -11,7 +11,7 @@ Seeking for collaboration in such fields, feel free to reach out to me via [Emai
 
 <table style="margin-left:auto; margin-right:auto;">
   <tr>
-    <td><img src="https://github.com/tabsun/DualTask-End2end-PPDet/blob/master/on_road_fast.gif" width=268px></td>
+    <td><img src="https://github.com/tabsun/DualTask-End2end-PPDet/blob/master/on_road_fast.gif" height=150 width=268px></td>
     <td><img src="https://wx2.sinaimg.cn/mw1024/89ef5361ly1fryzwf5m7uj20e80e80wo.jpg" width=268px></td>
     <td><img src="https://wx1.sinaimg.cn/mw1024/89ef5361ly1fryzxsnqg9j20e80e8n0k.jpg" width=268px></td>
   </tr>
