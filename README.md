@@ -16,7 +16,7 @@ Seeking for collaboration in such fields, feel free to reach out to me via [Emai
     <td><img src="https://wx1.sinaimg.cn/mw1024/89ef5361ly1fryzxsnqg9j20e80e8n0k.jpg" width=268px></td>
   </tr>
   <tr>
-    <td><img src="https://wx3.sinaimg.cn/mw1024/89ef5361ly1fsc9lppimgj20j20j1af1.jpg" width=268px></td>
+    <td><img src="https://wx3.sinaimg.cn/mw1024/89ef5361ly1fsc9lppimgj20j20j1af1.jpg" height=150 width=268px></td>
     <td><img src="https://wx4.sinaimg.cn/mw1024/89ef5361ly1fsc9lpf35ej20fu0fu0wn.jpg" width=268px></td>
     <td><img src="https://wx3.sinaimg.cn/mw1024/89ef5361ly1fsc9m8hklbj20fu0fugno.jpg" width=268px></td>
   </tr>
