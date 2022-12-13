@@ -5,8 +5,6 @@
 My work experience span the fields of Computer Vision and Image Processing, especially in Object Detection, Face Recognition and AI Security.
 And recently I'm insterested in content generation(i.e., Diffusion Model and CLIP).
 
-Seeking for collaboration in such fields, feel free to reach out to me via [Email](buptmsg@gmail.com).
-
 ![](https://github-readme-stats-one-bice.vercel.app/api?username=tabsun&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 
 <table style="margin-left:auto; margin-right:auto;">
