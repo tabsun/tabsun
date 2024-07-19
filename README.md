@@ -1,8 +1,8 @@
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%E6%B5%B7%E6%B6%8C-%E5%AD%99-052ba8a5/)
 
-👋 I am currently working at Xunlei Technology, and also a 2nd-Year CS Master student at Institute of Automation, Chinese Academy of Sciences.
+👋 I am currently working at Hanshow Technology as Algorithm Expert.
 
-My work experience span the fields of Computer Vision and Image Processing, especially in Object Detection, Face Recognition and AI Security.
+My work experience span the fields of Computer Vision and Image Processing, especially in Object Detection, Action Detection, Face Recognition and AI Security.
 And recently I'm insterested in content generation(i.e., Diffusion Model and CLIP).
 
 ![](https://github-readme-stats-one-bice.vercel.app/api?username=tabsun&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
